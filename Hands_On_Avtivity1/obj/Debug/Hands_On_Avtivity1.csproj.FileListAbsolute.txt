@@ -1,0 +1,11 @@
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\bin\Debug\Hands_On_Avtivity1.exe.config
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\bin\Debug\Hands_On_Avtivity1.exe
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\bin\Debug\Hands_On_Avtivity1.pdb
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.csprojAssemblyReference.cache
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.FrmConfirmation.resources
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.frmRegistration.resources
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.Properties.Resources.resources
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.csproj.GenerateResource.cache
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.csproj.CoreCompileInputs.cache
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.exe
+C:\Users\Hanz\source\repos\Hands_On_Avtivity1\Hands_On_Avtivity1\obj\Debug\Hands_On_Avtivity1.pdb
